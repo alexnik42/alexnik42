@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander (@alexnik42)
 - 👀 I’m interested in web development, algorithms and coding competitions
-- 💞️ I’m looking to collaborate on real-world projects and contribute to open-source projects
+- ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
      - Yandex.Praktikum Diploma project - Movies Explorer website development. Front-end: https://github.com/alexnik42/movies-explorer-frontend. Back-end: https://github.com/alexnik42/movies-explorer-api
      - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Repo: https://github.com/alexnik42/algorithms
@@ -21,6 +21,12 @@
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongo" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
       </p>
+- 📌 Statistics:
+     <p>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
+          <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=compact" />
+     </a>
+     </p>
 
 <!---
 alexnik42/alexnik42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
