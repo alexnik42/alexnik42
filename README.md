@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander (@alexnik42)
+- 👋 Hi, I’m Alexander (@alexnik42). I am passionate about coding, solving algorithmical problems and learning about new technologies.
 - 👀 I’m interested in web development, algorithms and coding competitions
 - ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
