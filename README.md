@@ -2,11 +2,11 @@
 - 👀 I’m interested in web development, algorithms and coding competitions
 - ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
-     - Yandex.Praktikum Diploma project - Movies Explorer website development. Front-end: https://github.com/alexnik42/movies-explorer-frontend. Back-end: https://github.com/alexnik42/movies-explorer-api
      - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Repo: https://github.com/alexnik42/algorithms
      - Visualization of different sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Repo: https://github.com/alexnik42/sort-algos-app
+     - Yandex.Praktikum Diploma project - Movies Explorer website development. Front-end: https://github.com/alexnik42/movies-explorer-frontend. Back-end: https://github.com/alexnik42/movies-explorer-api
 - 💡 Coding algorithms:
-     - LeetCode (✔️ 397 problems solved: 175 easy, 198 medium, 24 hard) - https://leetcode.com/alexnik42/
+     - LeetCode (✔️ 504 problems solved: 198 easy, 260 medium, 46 hard) - https://leetcode.com/alexnik42/
      - Codewars [![Codewarrior Profile Badges](https://www.codewars.com/users/alexnik42/badges/micro)](https://www.codewars.com/users/Comediant24)
 - 🔨 My stack:
       <p>
