@@ -2,9 +2,10 @@
 - 👀 I’m interested in web development, algorithms and coding competitions
 - ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
-     - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Repo: https://github.com/alexnik42/algorithms
-     - Visualization of different sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Repo: https://github.com/alexnik42/sort-algos-app
+     - Visualization of different sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Stack: React + Redux. Repo: https://github.com/alexnik42/sort-algos-app
+     - Battleship Game on C. Repo: https://github.com/alexnik42/battleship
      - Yandex.Praktikum Diploma project - Movies Explorer website development. Front-end: https://github.com/alexnik42/movies-explorer-frontend. Back-end: https://github.com/alexnik42/movies-explorer-api
+     - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Stack: Python. Repo: https://github.com/alexnik42/algorithms
 - 💡 Coding algorithms:
      - LeetCode (✔️ 504 problems solved: 198 easy, 260 medium, 46 hard) - https://leetcode.com/alexnik42/
      - Codewars [![Codewarrior Profile Badges](https://www.codewars.com/users/alexnik42/badges/micro)](https://www.codewars.com/users/Comediant24)
@@ -15,6 +16,7 @@
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22">
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
