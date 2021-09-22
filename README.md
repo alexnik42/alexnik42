@@ -9,7 +9,7 @@
      - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Stack: Python. Repo: https://github.com/alexnik42/algorithms
 - 💡 Coding algorithms:
      - LeetCode (✔️ 504 problems solved: 198 easy, 260 medium, 46 hard) - https://leetcode.com/alexnik42/
-     - Codewars [![Codewarrior Profile Badges](https://www.codewars.com/users/alexnik42/badges/micro)](https://www.codewars.com/users/Comediant24)
+     - Codewars [![Codewarrior Profile Badges](https://www.codewars.com/users/alexnik42/badges/micro)](https://www.codewars.com/users/alexnik42)
 - 🔨 My stack:
       <p>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
