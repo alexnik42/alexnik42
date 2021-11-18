@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander (@alexnik42). I am passionate about coding, solving algorithmical problems and learning about new technologies.
-- 👀 I’m interested in web development, algorithms and coding competitions
+- 👀 I’m interested in web and game development, algorithms and coding competitions
 - ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
      - Visualization of different sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Stack: JavaScript (React + Redux). Repo: https://github.com/alexnik42/sort-algos-app
