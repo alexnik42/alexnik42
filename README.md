@@ -25,6 +25,7 @@
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongo" height="22">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
       </p>
+- <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/alexandernnikolaev/
 - 📌 Statistics:
      <p>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
