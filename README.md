@@ -3,7 +3,7 @@
 - ⭐ I’m looking to collaborate on real-world projects and contribute to open-source projects
 - 📋 Selected projects:
      - Visualization of different sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Stack: JavaScript (React + Redux). Repo: https://github.com/alexnik42/sort-algos-app
-     - Small 2D game with basic gameplay. Stack: C + Minilbx Library. Repo: https://github.com/alexnik42/so_long
+     - Small 2D game with basic gameplay. Stack: C + MiniLibX. Repo: https://github.com/alexnik42/so_long
      - Battleship Game. Stack: C. Repo: https://github.com/alexnik42/battleship
      - Telegram Bot, which notifies user about transfer deadline in Fantasy Premier League. Stack: Python + Heroku (deployment). Repo: https://github.com/alexnik42/pl-fantasy-bot-public
      - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Stack: Python. Repo: https://github.com/alexnik42/algorithms
