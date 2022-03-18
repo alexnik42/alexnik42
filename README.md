@@ -31,8 +31,8 @@
 - <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/alexandernnikolaev/
 - 📌 Statistics:
      <p>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42">
-          <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42"/>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=default">
+          <img align="left" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=default"/>
      </a>
      </p>
 
