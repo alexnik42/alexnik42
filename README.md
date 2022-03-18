@@ -32,7 +32,7 @@
 - 📌 Statistics:
      <p>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=compact">
-          <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=compact" />
+          <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnik42&layout=compact"/>
      </a>
      </p>
 
