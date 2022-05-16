@@ -2,6 +2,7 @@
 - 📋 Selected projects:
      - 42 School Projects:
           - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/alexnik42/ft_containers)
+          - n-puzzle - solver to the classical algorithmic problem. [[Repo]](https://github.com/alexnik42/n-puzzle)
           - so_long - small 2D game with basic gameplay. Stack: C + MiniLibX. [[Repo]](https://github.com/alexnik42/so_long)
           - inception - set up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP) using Docker / Docker-Compose [[Repo]](https://github.com/alexnik42/inception)
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/alexnik42/minishell)
