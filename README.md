@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alexander (@alexnik42). I am currently studying at 42School (Moscow campus) - [[Description]](https://42.fr/en/homepage/). I am passionate about coding, solving algorithmical problems and learning about new technologies.
+- 👋 Hi, I’m Alexander (@alexnik42). I am currently studying at 42School - [[Description]](https://42.fr/en/homepage/). I am passionate about coding, solving algorithmical problems and learning about new technologies.
+- 🌆 Location: Toronto, ON (Canada)
 - 📋 Selected projects:
      - 42 School Projects:
           - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/alexnik42/ft_containers)
