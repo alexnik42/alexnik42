@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander (@alexnik42). I am currently studying at 42School - [[Description]](https://42.fr/en/homepage/). I am passionate about coding, solving algorithmical problems and learning about new technologies.
+- 👋 Hi, I’m Alexander (@alexnik42). I worked in Yandex as a software engineer (backend) and I am currently studying at 42School - [[Description]](https://42.fr/en/homepage/). I am passionate about coding, solving algorithmical problems and learning about new technologies.
 - 🌆 Location: Toronto, ON (Canada)
 - 📋 Selected projects:
      - 42 School Projects:
