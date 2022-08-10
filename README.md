@@ -8,6 +8,7 @@
           - inception - set up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP) using Docker / Docker-Compose [[Repo]](https://github.com/alexnik42/inception)
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/alexnik42/minishell)
      - Pet projects:
+          - PDF Converter Telegram Bot. Stack: Go, Docker. [[Repo]](https://github.com/alexnik42/pdf-converter)
           - Battleship Game. Stack: C. [[Repo]](https://github.com/alexnik42/battleship)
           - Visualization of sorting algorithms (quicksort, mergesort, bubble sort, insertion sort). Stack: JavaScript (React + Redux). [[Repo]](https://github.com/alexnik42/sort-algos-app)
           - Telegram Bot, which notifies user about transfer deadline in Fantasy Premier League. Stack: Python + Heroku (deployment). [[Repo]](https://github.com/alexnik42/pl-fantasy-bot-public)
