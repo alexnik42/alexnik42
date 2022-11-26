@@ -14,7 +14,7 @@
           - Telegram Bot, which notifies user about transfer deadline in Fantasy Premier League. Stack: Python + Heroku (deployment). [[Repo]](https://github.com/alexnik42/pl-fantasy-bot-public)
           - Implementation of popular types of algorithms – divide-and-conquer algorithms, randomized algorithms, graph search, greedy algorithms. Stack: Python. [[Repo]]( https://github.com/alexnik42/algorithms)
 - 💡 Algorithms:
-     - LeetCode. Top 5% contest rating - [[Link to profile]](https://leetcode.com/alexnik42/)
+     - LeetCode. Top 3% contest rating - [[Link to profile]](https://leetcode.com/alexnik42/)
      - Codewars [![Codewarrior Profile Badges](https://www.codewars.com/users/alexnik42/badges/micro)](https://www.codewars.com/users/alexnik42)
 - 🔨 My stack:
       <p>
